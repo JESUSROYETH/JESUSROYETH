@@ -32,7 +32,7 @@ and reducing Hungarian matcher time by up to 77%.
 | | Merged PRs |
 |---|---|
 | [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) | [106](https://github.com/ultralytics/ultralytics/pulls?q=is%3Apr+author%3AJESUSROYETH+is%3Amerged) |
-| [roboflow/rf-detr](https://github.com/roboflow/rf-detr) | [48](https://github.com/roboflow/rf-detr/pulls?q=is%3Apr+author%3AJESUSROYETH+is%3Amerged) |
+| [roboflow/rf-detr](https://github.com/roboflow/rf-detr) | [51](https://github.com/roboflow/rf-detr/pulls?q=is%3Apr+author%3AJESUSROYETH+is%3Amerged) |
 | [roboflow/trackers](https://github.com/roboflow/trackers) | [12](https://github.com/roboflow/trackers/pulls?q=is%3Apr+author%3AJESUSROYETH+is%3Amerged) |
 | [roboflow/supervision](https://github.com/roboflow/supervision) | [2](https://github.com/roboflow/supervision/pulls?q=is%3Apr+author%3AJESUSROYETH+is%3Amerged) |
 

@@ -12,7 +12,7 @@ from pathlib import Path
 
 USER = "JESUSROYETH"
 
-OWN_ACCOUNTS = {USER.lower()}
+OWN_ACCOUNTS = {USER.lower(), "jesusrolythium"}
 
 ROOT = Path(__file__).resolve().parent.parent
 TEMPLATE = ROOT / "README.template.md"

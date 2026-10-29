@@ -22,7 +22,23 @@ tracking pipelines, quantization, and deployment on constrained hardware.
 
 ---
 
-## 🔭 &nbsp;Open source
+## ⚡ &nbsp;Independent project
+
+### [RF-DETR JAX](https://github.com/JESUSROYETH/rf-detr-jax)
+
+An independent JAX/Flax port of RF-DETR for TPU and GPU training. It supports detection,
+instance segmentation, and keypoints, with upstream PyTorch checkpoint conversion and
+training, evaluation, prediction, checkpoint restoration, and ONNX export workflows.
+
+`detection` &nbsp;·&nbsp; `instance segmentation` &nbsp;·&nbsp; `keypoints` &nbsp;·&nbsp; `TPU` &nbsp;·&nbsp; `GPU`
+
+[Source](https://github.com/JESUSROYETH/rf-detr-jax) ·
+[Compatibility](https://github.com/JESUSROYETH/rf-detr-jax/blob/main/docs/COMPATIBILITY.md) ·
+[Training guide](https://github.com/JESUSROYETH/rf-detr-jax/blob/main/docs/TRAINING.md)
+
+---
+
+## 🔭 &nbsp;Upstream contributions
 
 I contribute performance improvements, bug fixes, and hardware support to widely used computer
 vision libraries. Recent work includes being the most-credited community contributor to RF-DETR's

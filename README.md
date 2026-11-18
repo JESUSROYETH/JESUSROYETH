@@ -56,7 +56,7 @@ the same profiling approach to SpikeInterface's neuroscience pipelines.
 | [roboflow/supervision](https://github.com/roboflow/supervision) | [2](https://github.com/roboflow/supervision/pulls?q=is%3Apr+author%3AJESUSROYETH+is%3Amerged) |
 | [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI) | [1](https://github.com/Project-MONAI/MONAI/pulls?q=is%3Apr+author%3AJESUSROYETH+is%3Amerged) |
 
-🏷️ &nbsp;My contributions have been credited by name in **45 upstream releases**.
+🏷️ &nbsp;My contributions have been credited by name in **46 upstream releases**.
 
 ---
 
